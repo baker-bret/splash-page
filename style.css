@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    display: inline;
+}
+
+#navbar {
+    list-style-type: none;
+    text-align: right;
+    background: goldenrod;
+    padding: 5px;
+    border-bottom: 4px solid black;
+    height: 10px;
+}
+
+#main {
+    text-align: center;
+    background: burlywood;
+    color: rgb(14, 13, 13);
+    padding-bottom: 20px;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+#contact {
+    text-align: center;
+    background-color: khaki;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#contact-btn {
+    margin-top: 5px;
+    padding: 5px;
+    background-color: darkkhaki; 
+    border-radius: 3%;   
+}
+
+footer {
+
+    background-color: goldenrod;
+    text-align: center;
+    color: brown;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
+
+img {
+    padding: 100px;
+
+}
